@@ -28,8 +28,10 @@ public class StringReverse {
         System.out.print("Enter a string: ");
         str = scanner.nextLine();
 
-        // Perform the calculation
-        // Reverse the string
+        // Perform the calculation to reverse the string
+        // Loop through the string from the end to the beginning
+        // Append each character to the reversedStr variable
+        // More about for loop: https://www.w3schools.com/java/java_for_loop.asp
         for (int i = str.length() - 1; i >= 0; i--) {
             reversedStr += str.charAt(i);
         }
