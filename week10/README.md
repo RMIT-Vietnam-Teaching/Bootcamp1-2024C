@@ -67,7 +67,7 @@ Social security number: 333-33-3333
 Sross sales: 10000.00; commission rate: 0.06
 Earned: $600.00
 
-Base salaried commission employee: Jill Brown
+Base plus Commission employee: Jill Brown
 Social security number: 444-44-4444
 Gross sales: 5000.00; commission rate: 0.04
 Base salary: 300.00
