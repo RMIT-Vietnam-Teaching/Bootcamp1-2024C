@@ -45,6 +45,10 @@ Below is the class hierarchy for the system:
    - Extends `CommissionEmployee` to add a fixed base salary.
    - Overrides `earnings()` to include base salary in the total earnings.
 
+#### **References**
+
+Deitel, Paul, and Harvey Deitel. *Java How to Program, Late Objects, 11th Edition.* Pearson, 2018.
+
 ---
 
 ## **Program Output**
